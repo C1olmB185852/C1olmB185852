@@ -21,7 +21,7 @@ Hola mi nombre es Daniel Esteban Martinez Herrera soy de Colombia Armenia-Quindi
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,jquery,html,js,nodejs,mysql,git,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,jquery,vercel,html,js,nodejs,mysql,git,github,vscode&perline=12" />
   </a>
 </p>
 <br>
