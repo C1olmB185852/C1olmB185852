@@ -10,7 +10,7 @@
 <!--Intro start-->
 
 <p align="left">
-Hola mi nombre es Daniel Esteban Martinez Herrera soy de Colombia Armenia-Quindio, Estudiante en el SENA en analisis y desarrollo de Software
+Hola mi nombre es Daniel Esteban soy de Colombia Armenia-Quindio, Estudiante en el SENA en analisis y desarrollo de Software
 
 📫 Contacto: **danielmartinezherrerra123@gmail.com**
 <!--Intro end-->
