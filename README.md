@@ -21,7 +21,7 @@ Hola mi nombre es Daniel Esteban soy de Colombia Armenia-Quindio, Estudiante en 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,flutter,jquery,html,css,git,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,flutter,react,jquery,html,css,git,github,vscode&perline=12" />
   </a>
 </p>
 <br>
