@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-Hola mi nombre es Daniel Esteban soy de Colombia Armenia-Quindio, Estudiante en el SENA en analisis y desarrollo de Software
+Hola mi nombre es Daniel Esteban soy de Colombia Armenia-Quindio, Estudiante Analisis y Desarrollo de Software
 
 📫 Contacto: **danielmartinezherrerra123@gmail.com**
 <!--Intro end-->
@@ -20,7 +20,7 @@ Hola mi nombre es Daniel Esteban soy de Colombia Armenia-Quindio, Estudiante en 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,react,tailwind,jquery,html,css,git,github,figma,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=firebase,js,nodejs,mysql,react,tailwind,jquery,html,css,git,github,e&perline=12" />
   </a>
 </p>
 <br>
