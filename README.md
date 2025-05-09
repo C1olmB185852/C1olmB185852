@@ -16,7 +16,7 @@ Hola mi nombre es Daniel Esteban soy de Colombia Armenia-Quindio, Estudiante Ana
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Lenguajes - Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
